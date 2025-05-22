@@ -1,16 +1,14 @@
-## Hi there 👋
+Bem vindo ao meu perfil! 
 
-<!--
-**PedroLima1717/PedroLima1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou fazendo Curso Tecnico de Desenvolvimento de Sistemas no Senai Valinhos pois desde criança tenho um contado muito grande com computadores e seria uma área profissional que me agrada. Pretendo ter uma boa carreira na área da computação, quero ter um amplo conhecimento na area e ter boas competencias para futuramente ter uma otima carreira. Trabalho atualmente de mecanico, ja trabalhei em um lava rapido e pude aprender e ainda estou aprendendo algumas coias que podem agregar muito a minha vida profissional.
 
-Here are some ideas to get you started:
+🛠️ O que Estou Aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" />
+</div>
